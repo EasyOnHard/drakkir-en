@@ -109,26 +109,208 @@ Dictionary = [
     {
       "type": "PROTO",
       "compound": "",
-      "origin": "",
+      "origin": "Toki Pona",
       "definition": "Land",
       "example": "",
       "exampleTranslation": ""
     }
   ]
 },
-
+{
+  "word": "Kuu",
+  "uses": [
+    {
+      "type": "PROTO",
+      "compound": "",
+      "origin": "",
+      "definition": "Person",
+      "example": "",
+      "exampleTranslation": ""
+    }
+  ]
+},
+{
+  "word": "Rul",
+  "uses": [
+    {
+      "type": "PROTO",
+      "compound": "",
+      "origin": "English",
+      "definition": "Rule",
+      "example": "",
+      "exampleTranslation": ""
+    }
+  ]
+},
+{
+  "word": "Trad",
+  "uses": [
+    {
+      "type": "PROTO",
+      "compound": "",
+      "origin": "English",
+      "definition": "Trade",
+      "example": "",
+      "exampleTranslation": ""
+    }
+  ]
+},
+{
+  "word": "Ilo",
+  "uses": [
+    {
+      "type": "PROTO",
+      "compound": "",
+      "origin": "Toki Pona",
+      "definition": "Tool",
+      "example": "",
+      "exampleTranslation": ""
+    }
+  ]
+},
+{
+  "word": "Ðali",
+  "uses": [
+    {
+      "type": "PROTO",
+      "compound": "",
+      "origin": "Toki Pona",
+      "definition": "Work",
+      "example": "",
+      "exampleTranslation": ""
+    }
+  ]
+  },
   {
-      "word": "janweli",
-      "uses": [
-          {
-              "type": "COMPOUND",
-              "compound": "jan + soweli",
-              "definition": "furry (animal person)",
-              "example": "sina janweli.",
-              "exampleTranslation": "You are a furry."
-          }
-      ]
-  }
+    "word": "Baati",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "English",
+        "definition": "Body",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Ojo",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "Eye",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Bojo",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "Mouth",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Eserk",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "Blood",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Bin",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "Bone",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Vla∫",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "Life",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Zind",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "End",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Mok",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "Eat",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Bok",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "Drink",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Ala",
+    "uses": [
+        {
+            "type": "PROTO",
+            "compound": "",
+            "origin": "Toki Pona",
+            "definition": "Negative",
+            "example": "",
+            "exampleTranslation": ""
+        }
+    ]
+}
 ]
 
 Dictionary.sort((a, b) => a.word.localeCompare(b.word));
