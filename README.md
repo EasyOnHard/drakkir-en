@@ -1,0 +1,1 @@
+This is a dictionary for a conlang I am making, Drakkir. The website is based off of toki-en by RealRainbuu. Check it out [here](https://github.com/RealRainbuu/toki-en)!
