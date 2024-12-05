@@ -1,0 +1,28 @@
+[
+  {
+    "word": "Bin",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "Bone",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Vla∫",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "Life",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  }
+]

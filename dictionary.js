@@ -299,6 +299,175 @@ Dictionary = [
     ]
   },
   {
+    "word": "Sir",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "Movement",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Toki",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "Speach",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Kage",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "(The action of) Giving",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Wile",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "Toki Pona",
+        "definition": "Want",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Utal",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "Toki Pona",
+        "definition": "Battle",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Lake",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "Sleep",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Pok",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "Toki Pona",
+        "definition": "Good",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Θund",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "Strong, Blade, Sharp",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Θon",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "New",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Θem",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "Greek",
+        "definition": "Temperature",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Drak",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "",
+        "definition": "Dragon, Large, Important",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Apid",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "English",
+        "definition": "Rapid, Quickly",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
+    "word": "Kul",
+    "uses": [
+      {
+        "type": "PROTO",
+        "compound": "",
+        "origin": "Toki Pona",
+        "definition": "Color",
+        "example": "",
+        "exampleTranslation": ""
+      }
+    ]
+  },
+  {
     "word": "Ala",
     "uses": [
         {
@@ -310,7 +479,7 @@ Dictionary = [
             "exampleTranslation": ""
         }
     ]
-}
+  }
 ]
 
 Dictionary.sort((a, b) => a.word.localeCompare(b.word));
